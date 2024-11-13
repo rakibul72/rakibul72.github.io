@@ -24,10 +24,10 @@ author:
   avatar           : "Rakib_Profile_Pic1.jpg"
   name             : "Md. Rakibul Islam"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer @ CSE, AUST || Researcher - CV, DL, ML, NLP"
+  bio              : "Lecturer, CSE, AUST || Researcher - CV, DL, ML, NLP"
   location         : "Dhaka, Bangladesh"
-  employer         : "Ahsanullah University of Science and Technology"
-  uri              : "https://www.aust.edu/cse/faculty_member/mr_md_rakibul_islam"
+  employer         : # "Ahsanullah University of Science and Technology"
+  uri              : # "https://www.aust.edu/cse/faculty_member/mr_md_rakibul_islam"
   email            : "rakib.cse@aust.edu" 
 
   # Academic websites
