@@ -10,7 +10,7 @@ author_profile: true
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Advancing AI-Generated Image Detection: Enhanced Accuracy through CNN and Vision Transformer Models with Explainable AI Insights**</span>](https://ieeexplore.ieee.org/abstract/document/10440990)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Farhad Uz Zaman, and <strong style="color:green">Md. Rakibul Islam</strong></font>
+	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Farhad Uz Zaman, and <strong style="color: sea green">Md. Rakibul Islam</strong></font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
