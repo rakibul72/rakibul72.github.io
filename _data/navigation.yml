@@ -9,14 +9,14 @@ main:
     url: /
 
   - title: "Research"
-    url: /research/    # /talks/ 
+    url: /research/
 
     - title: "Publications"
-    url: /publications/    # /portfolio/
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
         
   - title: "Education"
-    url: /education/   # /year-archive/
+    url: /education/
     
