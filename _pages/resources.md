@@ -1,7 +1,8 @@
 ---
 layout: archive
+title: "Resources"
 permalink: /resources/
-title: ""
+author_profile: true
 ---
  
 ## Experience
