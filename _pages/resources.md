@@ -5,12 +5,8 @@ permalink: /resources/
 author_profile: true
 ---
  
-## Experience
-
-<!-- Lecturer -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Lecturer (Grade-II)</span><br/>
-[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
-[Ahsanullah University of Science and Technology (AUST)](https://aust.edu/)<br/>
-<span style="color:#6E2C00"><em>October 2023 - Present</em></span>
-</span>
+## Helpful Resources for Research 
+<details>
+<summary>Papers with Code</summary>
+<span style="color:green"><font size="3"><ins>A comprehensive platform that links research papers with open-source implementations, providing access to state-of-the-art models and performance benchmarks across various fields in ML, CV, DL, and NLP.</ins></font></span><br>
+</details>
