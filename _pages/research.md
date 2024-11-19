@@ -12,6 +12,13 @@ My research interests span several key areas, and I actively follow leading jour
 <p style="text-align:justify; color:black; font-family:Georgia">
 Computer Vision (CV) research focuses on enabling machines to interpret and make decisions based on visual data, replicating human-like understanding of images and videos. With advancements in deep learning, especially convolutional neural networks (CNNs), CV has achieved remarkable success in tasks such as object detection, facial recognition, and image segmentation. Current trends include the use of generative models for image synthesis, real-time processing for augmented and virtual reality applications, and the push for more efficient, explainable models to address concerns about transparency and bias. Moreover, there is growing interest in integrating CV with other domains, such as natural language processing, to create more comprehensive and multimodal AI systems.
 </p>
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Computer Vision: </i>
+</p>
+<!-- Journal-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263)<br/>
+</span>
 
 ## 2. Machine Learning (ML)
 <p style="text-align:justify; color:black; font-family:Georgia">
