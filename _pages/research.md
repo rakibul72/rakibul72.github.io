@@ -44,7 +44,7 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 
 <!-- Journal-6 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing))<br/>
+[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)<br/>
 </span>
 
 <!-- Journal-7 -->
