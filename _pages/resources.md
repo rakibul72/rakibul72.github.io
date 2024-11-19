@@ -66,6 +66,26 @@ author_profile: true
 ## Helpful Courses for Research 
 
 <details>
-<summary> <a href="https://spacy.io/">Spacy</a></summary>
-<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>An NLP library in Python that offers fast, efficient, and pretrained models for tasks like tokenization, named entity recognition, and text classification.</em> </p></font></span><br>
+<summary> <a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization</a></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. </em> </p></font></span><br>
+</details>
+
+<details>
+<summary> <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A comprehensive series of courses on deep learning covering neural networks, CNNs, RNNs, and more, with practical programming assignments in Python. Great for learners moving into DL.</em> </p></font></span><br>
+</details>
+
+<details>
+<summary> <a href="https://www.coursera.org/specializations/natural-language-processing">Natural Language Processing Specialization</a></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A 4-course series that covers modern NLP topics like text classification, sentiment analysis, and sequence models using TensorFlow.</em> </p></font></span><br>
+</details>
+
+<details>
+<summary> <a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>Introduces key concepts in computer vision, including feature extraction and image filtering, through a series of engaging programming assignments.</em> </p></font></span><br>
+</details>
+
+<details>
+<summary> <a href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2985301&utm_content=b2c&gad_source=1&irclickid=VKWxvCWA-xyPTEIw-AQwnTMLUkCQQ3TlqQd1x40">Advanced Computer Vision with TensorFlow</a></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A series of courses focusing on using TensorFlow for advanced computer vision tasks, including GANs, object detection, and image segmentation.</em> </p></font></span><br>
 </details>
