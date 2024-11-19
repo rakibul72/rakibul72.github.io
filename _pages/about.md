@@ -18,17 +18,17 @@ redirect_from:
 
 <details>
 <summary>Computer Vision (CV)</summary>
-<span ><font size="3">I explore the development and application of algorithms that enable computers to interpret and make decisions based on visual data. My work involves image processing, image generation, object detection, and facial recognition, with a keen interest in practical implementations across various industries.</font></span><br>
+<span style="color:gray"><font size="3">I explore the development and application of algorithms that enable computers to interpret and make decisions based on visual data. My work involves image processing, image generation, object detection, and facial recognition, with a keen interest in practical implementations across various industries.</font></span><br>
 </details>
 
 <details>
 <summary>Machine Learning (ML) & Deep Learning (DL)</summary>
-<span ><font size="3">With a focus on designing intelligent systems, I am involved in developing models that can learn from and adapt to data. My research in this domain covers supervised and unsupervised learning techniques, neural network architectures, and reinforcement learning applications.</font></span><br>
+<span style="color:gray"><font size="3">With a focus on designing intelligent systems, I am involved in developing models that can learn from and adapt to data. My research in this domain covers supervised and unsupervised learning techniques, neural network architectures, and reinforcement learning applications.</font></span><br>
 </details>
 
 <details>
 <summary>Natural Language Processing (NLP)</summary>
-<span ><font size="3">Driven by the desire to bridge the gap between human language and machine understanding, I investigate NLP models for tasks such as sentiment analysis, language translation, language generation and conversational AI. My work contributes to the advancement of human-computer interaction and automated understanding of human language.</font></span><br>
+<span style="color:gray"><font size="3">Driven by the desire to bridge the gap between human language and machine understanding, I investigate NLP models for tasks such as sentiment analysis, language translation, language generation and conversational AI. My work contributes to the advancement of human-computer interaction and automated understanding of human language.</font></span><br>
 </details>
 
 <p style="text-align:justify; color:black; font-family:Georgia"> I am actively engaged in research projects that leverage computer vision, machine learning, and natural language processing to solve complex problems. I am always on the lookout for opportunities to collaborate with researchers and industry partners, aiming to work on multidisciplinary projects that have a tangible impact on society. My research not only contributes to theoretical advancements but also focuses on developing solutions that can be effectively deployed in real-world settings.</p>
