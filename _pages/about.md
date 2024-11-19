@@ -20,13 +20,13 @@ redirect_from:
 <summary><b>Computer Vision (CV)</b></summary>
 <span style="text-align:justify; color:black; font-family:Georgia"><font size="3"> <em>I explore the development and application of algorithms that enable computers to interpret and make decisions based on visual data. My work involves image processing, image generation, object detection, and facial recognition, with a keen interest in practical implementations across various industries.</em></font></span><br>
 </details>
-<br>
+
 
 <details>
 <summary><b>Machine Learning (ML) & Deep Learning (DL)</b></summary>
 <span style="text-align:justify; color:black; font-family:Georgia"><font size="3"><em>With a focus on designing intelligent systems, I am involved in developing models that can learn from and adapt to data. My research in this domain covers supervised and unsupervised learning techniques, neural network architectures, and reinforcement learning applications.</em></font></span><br>
 </details>
-<br>
+
 
 <details>
 <summary><b>Natural Language Processing (NLP)</b></summary>
