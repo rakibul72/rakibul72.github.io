@@ -30,8 +30,10 @@ redirect_from:
 
 <details>
 <summary><b>Natural Language Processing (NLP)</b></summary>
-<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>Driven by the desire to bridge the gap between human language and machine understanding, I investigate NLP models for tasks such as sentiment analysis, language translation, language generation and conversational AI. My work contributes to the advancement of human-computer interaction and automated understanding of human language.</em></p></font></span><br>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>Driven by the desire to bridge the gap between human language and machine understanding, I investigate NLP models for tasks such as sentiment analysis, language translation, language generation and conversational AI. My work contributes to the advancement of human-computer interaction and automated understanding of human language.</em></p></font></span>
 </details>
+
+<br>
 
 <p style="text-align:justify; color:black; font-family:Georgia"> I am actively engaged in research projects that leverage computer vision, machine learning, and natural language processing to solve complex problems. I am always on the lookout for opportunities to collaborate with researchers and industry partners, aiming to work on multidisciplinary projects that have a tangible impact on society. My research not only contributes to theoretical advancements but also focuses on developing solutions that can be effectively deployed in real-world settings.</p>
 
