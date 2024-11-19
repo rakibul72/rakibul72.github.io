@@ -174,3 +174,51 @@ Deep Learning (DL) research is a subset of machine learning that focuses on neur
 <p style="text-align:justify; color:black; font-family:Georgia">
 Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
 </p>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Natural Language Processing: </i>
+</p>
+
+<!-- Journal-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Computational Linguistics (MIT Press)](https://direct.mit.edu/coli)<br/>
+</span>
+
+<!-- Journal-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/index.php/tacl)<br/>
+</span>
+
+<!-- Journal-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
+</span>
+
+<!-- Journal-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Natural Language Engineering (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-engineering)<br/>
+</span>
+
+<!-- Journal-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
+</span>
+
+<!-- Journal-6 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable conferences in the field of Natural Language Processing: </i>
+</p>
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
+</span>
