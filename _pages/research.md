@@ -139,6 +139,37 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 Deep Learning (DL) research is a subset of machine learning that focuses on neural networks with many layers, enabling the development of highly powerful models capable of learning complex patterns from large datasets. Recent trends in DL research include advancements in transformer architectures, which have significantly improved performance in natural language processing and computer vision tasks. Additionally, the field is exploring self-supervised learning, where models learn from unlabeled data, and transfer learning, which leverages pre-trained models for specialized tasks. There is also growing interest in efficient deep learning models that can run on resource-constrained devices, as well as efforts to make DL systems more interpretable and fair, addressing challenges around transparency and bias in AI applications.
 </p>
 
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Deep Learning: </i>
+</p>
+
+<!-- Journal-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)<br/>
+</span>
+
+<!-- Journal-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)<br/>
+</span>
+
+<!-- Journal-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<br/>
+</span>
+
+<!-- Journal-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Neural Computing & Applications](https://link.springer.com/journal/521)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>[*Note: Many journals and conferences have overlapping interests in Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). Therefore, please consider exploring those as well. Additionally, there are numerous multidisciplinary journals and conferences.]</i>
+</p>
+
+
+
+
 ## 4. Natural Language Processing (NLP)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
