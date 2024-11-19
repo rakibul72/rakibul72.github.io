@@ -76,6 +76,64 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 Machine Learning (ML) research centers on developing algorithms that enable computers to learn from and make predictions based on data, revolutionizing various fields by automating complex decision-making processes. Recent trends emphasize the use of deep learning architectures, like transformers and neural networks, for tasks ranging from natural language understanding to advanced computer vision. There is a strong focus on improving model efficiency and scalability, particularly for deploying ML models on edge devices. Additionally, trends like federated learning are gaining traction for privacy-preserving data analysis, while research into interpretability and fairness is crucial to address biases and ensure the ethical application of ML technologies.
 </p>
 
+<!-- Journal-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)<br/>
+</span>
+
+<!-- Journal-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Machine Learning Journal](https://link.springer.com/journal/10994)<br/>
+</span>
+
+<!-- Journal-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Neural Networks (Elsevier)](https://www.sciencedirect.com/journal/neural-networks)<br/>
+</span>
+
+<!-- Journal-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)<br/>
+</span>
+
+<!-- Journal-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)<br/>
+</span>
+
+<!-- Journal-6 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/TIST)<br/>
+</span>
+
+<!-- Journal-7 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Pattern Analysis and Applications (Springer)](https://link.springer.com/journal/10044)<br/>
+</span>
+
+<!-- Journal-8 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Data Science and Engineering (Springer)](https://link.springer.com/journal/41019)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Machine Learning: </i>
+</p>
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE International Conference on Data Mining (ICDM)](https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable conferences in the field of Machine Learning: </i>
+</p>
+
 ## 3. Deep Learning (DL)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Deep Learning (DL) research is a subset of machine learning that focuses on neural networks with many layers, enabling the development of highly powerful models capable of learning complex patterns from large datasets. Recent trends in DL research include advancements in transformer architectures, which have significantly improved performance in natural language processing and computer vision tasks. Additionally, the field is exploring self-supervised learning, where models learn from unlabeled data, and transfer learning, which leverages pre-trained models for specialized tasks. There is also growing interest in efficient deep learning models that can run on resource-constrained devices, as well as efforts to make DL systems more interpretable and fair, addressing challenges around transparency and bias in AI applications.
