@@ -76,6 +76,10 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 Machine Learning (ML) research centers on developing algorithms that enable computers to learn from and make predictions based on data, revolutionizing various fields by automating complex decision-making processes. Recent trends emphasize the use of deep learning architectures, like transformers and neural networks, for tasks ranging from natural language understanding to advanced computer vision. There is a strong focus on improving model efficiency and scalability, particularly for deploying ML models on edge devices. Additionally, trends like federated learning are gaining traction for privacy-preserving data analysis, while research into interpretability and fairness is crucial to address biases and ensure the ethical application of ML technologies.
 </p>
 
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Machine Learning: </i>
+</p>
+
 <!-- Journal-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)<br/>
@@ -117,7 +121,7 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 </span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable journals in the field of Machine Learning: </i>
+<i>Some notable conferences in the field of Machine Learning: </i>
 </p>
 
 <!-- Conference-1 -->
@@ -129,10 +133,6 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 + <span style="font-family:Trebuchet MS; color:black;">
 [International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
 </span>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable conferences in the field of Machine Learning: </i>
-</p>
 
 ## 3. Deep Learning (DL)
 <p style="text-align:justify; color:black; font-family:Georgia">
