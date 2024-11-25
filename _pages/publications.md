@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
+## Published <i>(Recent First)</i>
 -------
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Advancing AI-Generated Image Detection: Enhanced Accuracy through CNN and Vision Transformer Models with Explainable AI Insights**</span>](https://ieeexplore.ieee.org/abstract/document/10440990)<br>
