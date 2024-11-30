@@ -4,6 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+> <p>"I know that I know nothing" <br> &nbsp;&nbsp;&nbsp; ― Socrates</p>
+
+> <p>"It takes a long toll to understand that you don't know" <br> &nbsp;&nbsp;&nbsp; ― 😎</p>
+
 <p style="text-align:justify; color:black; font-family:Georgia">
 My research interests span several key areas, and I actively follow leading journals and conferences to stay updated on the latest trends and advancements:
 </p>
