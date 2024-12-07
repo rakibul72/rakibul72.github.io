@@ -21,6 +21,11 @@ redirect_from:
 <span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>I explore the development and application of algorithms that enable computers to interpret and make decisions based on visual data. My work involves image processing, image generation, object detection, and facial recognition, with a keen interest in practical implementations across various industries.</em> </p></font></span>
 </details>
 
+<details>
+<summary><b>Vision-Language Models</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>An exciting domain that bridges computer vision and natural language processing to enable machines to understand and interact with multimodal information. My work focuses on developing advanced VLMs for tasks such as image captioning, visual question answering (VQA), and multimodal retrieval, emphasizing creating models that are context-aware, efficient, and generalizable. A critical research gap I address involves enhancing the alignment between visual and textual representations, particularly in scenarios with ambiguous or limited data. I am also keen on tackling challenges related to the semantic grounding of text in complex visual scenes and improving the models’ ability to perform zero-shot or few-shot learning. Through my research, I aim to push the boundaries of multimodal AI, making it more robust and applicable to real-world problems.</em> </p></font></span>
+</details>
+
 
 <details>
 <summary><b>Machine Learning (ML) & Deep Learning (DL)</b></summary>
@@ -31,6 +36,16 @@ redirect_from:
 <details>
 <summary><b>Natural Language Processing (NLP)</b></summary>
 <span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>Driven by the desire to bridge the gap between human language and machine understanding, I investigate NLP models for tasks such as sentiment analysis, language translation, language generation and conversational AI. My work contributes to the advancement of human-computer interaction and automated understanding of human language.</em></p></font></span>
+</details>
+
+<details>
+<summary><b>Vision and Speech</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>An interdisciplinary field that combines visual and auditory information to enable more robust and natural human-computer interactions. I focus on developing systems for tasks such as audio-visual speech recognition (AVSR), lip reading, and multimodal emotion recognition, where integrating visual and speech modalities enhances performance in challenging conditions like noisy environments. A key research gap I address is improving the temporal and semantic alignment of visual and speech data, particularly in scenarios involving diverse speakers, accents, and occlusions. I also work on advancing models that can generalize well across real-world applications, bridging the gap between academic research and practical deployment. Through my work, I aim to create more intuitive, adaptive, and reliable multimodal systems.</em></p></font></span>
+</details>
+
+<details>
+<summary><b>NLP and Speech</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>the fusion of natural language processing and speech technologies drives advancements in human-computer communication. My research focuses on developing innovative systems for tasks like automatic speech recognition (ASR), text-to-speech (TTS) synthesis, and spoken language understanding (SLU). A key research gap I address is improving the adaptability of ASR and TTS systems to diverse languages, accents, and speaking styles, particularly in low-resource settings. Additionally, I explore integrating prosody and context modeling to enhance the naturalness of synthesized speech and the accuracy of spoken language interpretation. My work aims to bridge these gaps, creating robust, inclusive, and context-aware speech-driven NLP solutions for real-world applications.</em></p></font></span>
 </details>
 
 <br>
