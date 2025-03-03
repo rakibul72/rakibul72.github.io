@@ -33,6 +33,11 @@ title: ""
 
 ## Conducted Courses @AUST 
 <details>
+<summary>CSE 1102:  Elementary Structured Programming Lab (C)</summary>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2024</ins></font></span><br>
+</details>
+
+<details>
 <summary>CSE 1278:  Computer Programming and Algorithms Lab (Python)</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Fall 2023</ins></font></span><br>
 </details>
@@ -49,7 +54,7 @@ title: ""
 
 <details>
 <summary>CSE 2104:  Data Structures Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024</ins></font></span><br>
 </details>
 
 <details>
@@ -69,7 +74,7 @@ title: ""
 
 <details>
 <summary>CSE 4204:  Computer Graphics Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024</ins></font></span><br>
 </details>
 
 ## Conducted Courses @SEU 
@@ -91,6 +96,10 @@ title: ""
 
 <details>
 <summary>CSE261: Numerical Methods</summary>
+</details>
+
+<details>
+<summary>CSE265: Algorithm</summary>
 </details>
 
 <details>
