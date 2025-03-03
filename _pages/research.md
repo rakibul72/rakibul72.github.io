@@ -76,7 +76,60 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 [International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings)<br/>
 </span>
 
-## 2. Machine Learning (ML)
+## 2. Natural Language Processing (NLP)
+<p style="text-align:justify; color:black; font-family:Georgia">
+Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
+</p>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Natural Language Processing: </i>
+</p>
+
+<!-- Journal-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Computational Linguistics (MIT Press)](https://direct.mit.edu/coli)<br/>
+</span>
+
+<!-- Journal-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/index.php/tacl)<br/>
+</span>
+
+<!-- Journal-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
+</span>
+
+<!-- Journal-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Natural Language Engineering (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-engineering)<br/>
+</span>
+
+<!-- Journal-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
+</span>
+
+<!-- Journal-6 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable conferences in the field of Natural Language Processing: </i>
+</p>
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
+</span>
+
+## 3. Machine Learning (ML)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Machine Learning (ML) research centers on developing algorithms that enable computers to learn from and make predictions based on data, revolutionizing various fields by automating complex decision-making processes. Recent trends emphasize the use of deep learning architectures, like transformers and neural networks, for tasks ranging from natural language understanding to advanced computer vision. There is a strong focus on improving model efficiency and scalability, particularly for deploying ML models on edge devices. Additionally, trends like federated learning are gaining traction for privacy-preserving data analysis, while research into interpretability and fairness is crucial to address biases and ensure the ethical application of ML technologies.
 </p>
@@ -139,7 +192,7 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 [International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
 </span>
 
-## 3. Deep Learning (DL)
+## 4. Deep Learning (DL)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Deep Learning (DL) research is a subset of machine learning that focuses on neural networks with many layers, enabling the development of highly powerful models capable of learning complex patterns from large datasets. Recent trends in DL research include advancements in transformer architectures, which have significantly improved performance in natural language processing and computer vision tasks. Additionally, the field is exploring self-supervised learning, where models learn from unlabeled data, and transfer learning, which leverages pre-trained models for specialized tasks. There is also growing interest in efficient deep learning models that can run on resource-constrained devices, as well as efforts to make DL systems more interpretable and fair, addressing challenges around transparency and bias in AI applications.
 </p>
@@ -171,59 +224,3 @@ Deep Learning (DL) research is a subset of machine learning that focuses on neur
 <p style="text-align:justify; color:black; font-family:Georgia">
 <i>[*Note: Many journals and conferences have overlapping interests in Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). Therefore, please consider exploring those as well. Additionally, there are numerous multidisciplinary journals and conferences.]</i>
 </p>
-
-
-
-
-## 4. Natural Language Processing (NLP)
-<p style="text-align:justify; color:black; font-family:Georgia">
-Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
-</p>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable journals in the field of Natural Language Processing: </i>
-</p>
-
-<!-- Journal-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Computational Linguistics (MIT Press)](https://direct.mit.edu/coli)<br/>
-</span>
-
-<!-- Journal-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/index.php/tacl)<br/>
-</span>
-
-<!-- Journal-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
-</span>
-
-<!-- Journal-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Natural Language Engineering (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-engineering)<br/>
-</span>
-
-<!-- Journal-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
-</span>
-
-<!-- Journal-6 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
-</span>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable conferences in the field of Natural Language Processing: </i>
-</p>
-
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
-</span>
