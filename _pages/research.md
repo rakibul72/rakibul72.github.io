@@ -129,6 +129,11 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 [The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
 </span>
 
+<!-- Conference-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
+</span>
+
 ## 3. Machine Learning (ML)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Machine Learning (ML) research centers on developing algorithms that enable computers to learn from and make predictions based on data, revolutionizing various fields by automating complex decision-making processes. Recent trends emphasize the use of deep learning architectures, like transformers and neural networks, for tasks ranging from natural language understanding to advanced computer vision. There is a strong focus on improving model efficiency and scalability, particularly for deploying ML models on edge devices. Additionally, trends like federated learning are gaining traction for privacy-preserving data analysis, while research into interpretability and fairness is crucial to address biases and ensure the ethical application of ML technologies.
