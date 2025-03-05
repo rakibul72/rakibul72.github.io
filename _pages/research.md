@@ -76,6 +76,11 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 [International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings)<br/>
 </span>
 
+<!-- Conference-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[CVF Open Access (For papers from top conferences)](https://openaccess.thecvf.com/menu)<br/>
+</span>
+
 ## 2. Natural Language Processing (NLP)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
