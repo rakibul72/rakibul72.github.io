@@ -42,6 +42,13 @@ author_profile: true
 ## Under Review Papers
 -------
 <!-- Paper 01 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**</span>](https://arxiv.org/pdf/2505.21715) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Mustofa Ahmed, Most. Sharmin Sultana Samu, and <strong style="color: green">Md. Rakibul Islam</strong></font>
+</span>
+<br>
+
+<!-- Paper 02 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Explainable AI-Driven Detection of Human Monkeypox Using Deep Learning and Vision Transformers: A Comprehensive Analysis**</span>](https://arxiv.org/pdf/2505.01429) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, <strong style="color: green">Md. Rakibul Islam</strong>, and Most. Sharmin Sultana Samu</font>
