@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Papers <i>(Recent First)</i>
 -------
 <!-- Paper 01 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**</span>](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70220) (<span style="color:PaleGreen"><strong>Q2</strong></span>)<br>
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**</span>](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70220) (<span style="color:PaleVioletRed"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong>, Md. Zahid Hossain, Mustofa Ahmed, and Most. Sharmin Sultana Samu</font>
 </span>
