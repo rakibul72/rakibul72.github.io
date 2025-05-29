@@ -5,7 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published <i>(Recent First)</i>
+## Journal Papers <i>(Recent First)</i>
+-------
+<!-- Paper 01 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**</span>](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70220) (<span style="color:PaleGreen"><strong>Q2</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong>, Md. Zahid Hossain, Mustofa Ahmed, and Most. Sharmin Sultana Samu</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Engineering Reports</em></font> ([Engineering Reports](https://onlinelibrary.wiley.com/journal/25778196))
+</span>
+<br>
+
+## Conference Papers <i>(Recent First)</i>
 -------
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Advancing AI-Generated Image Detection: Enhanced Accuracy through CNN and Vision Transformer Models with Explainable AI Insights**</span>](https://ieeexplore.ieee.org/abstract/document/10440990)<br>
