@@ -5,6 +5,15 @@ permalink: /education/
 author_profile: true
 ---
 
+<!-- M.Sc. -->
+<span style="font-family:Georgia; color:black;">
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.bracu.ac.bd/" target="_blank">BRAC University</a></b></span><br/>
+Master of Science (M.Sc.)<br/>
+Computer Science and Engineering<br/>
+Duration: 2024 - ongoing <br/>
+CGPA: <b>4.00/4.00</b> scale <br/>
+</span>
+
 <!-- B.Sc. -->
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
