@@ -173,13 +173,17 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)<br/>
 </span>
 
-## 3. Machine Learning (ML)
+## 3. Deep Learning (DL) & Machine Learning (ML)
+<p style="text-align:justify; color:black; font-family:Georgia">
+Deep Learning (DL) research is a subset of machine learning that focuses on neural networks with many layers, enabling the development of highly powerful models capable of learning complex patterns from large datasets. Recent trends in DL research include advancements in transformer architectures, which have significantly improved performance in natural language processing and computer vision tasks. Additionally, the field is exploring self-supervised learning, where models learn from unlabeled data, and transfer learning, which leverages pre-trained models for specialized tasks. There is also growing interest in efficient deep learning models that can run on resource-constrained devices, as well as efforts to make DL systems more interpretable and fair, addressing challenges around transparency and bias in AI applications.
+</p>
+
 <p style="text-align:justify; color:black; font-family:Georgia">
 Machine Learning (ML) research centers on developing algorithms that enable computers to learn from and make predictions based on data, revolutionizing various fields by automating complex decision-making processes. Recent trends emphasize the use of deep learning architectures, like transformers and neural networks, for tasks ranging from natural language understanding to advanced computer vision. There is a strong focus on improving model efficiency and scalability, particularly for deploying ML models on edge devices. Additionally, trends like federated learning are gaining traction for privacy-preserving data analysis, while research into interpretability and fairness is crucial to address biases and ensure the ethical application of ML technologies.
 </p>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable journals in the field of Machine Learning: </i>
+<i>Some notable journals in the field of Deep Learning and Machine Learning: </i>
 </p>
 
 <!-- Journal-1 -->
@@ -223,7 +227,7 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 </span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable conferences in the field of Machine Learning: </i>
+<i>Some notable conferences in the field of Deep Learning and Machine Learning: </i>
 </p>
 
 <!-- Conference-1 -->
