@@ -73,7 +73,7 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 
 <!-- Conference-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[European Conference on Computer Vision (ECCV)](https://link.springer.com/conference/eccv) [ [ECCV Papers Collection] ] (https://www.ecva.net/papers.php)<br/>
+[European Conference on Computer Vision (ECCV)](https://link.springer.com/conference/eccv) ["ECCV Papers Collection"] (https://www.ecva.net/papers.php)<br/>
 </span>
 
 <!-- Conference-4 -->
