@@ -107,15 +107,20 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 
 <!-- Journal-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
+[Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/index.php/jair)<br/>
 </span>
 
 <!-- Journal-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
+[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
 </span>
 
 <!-- Journal-6 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
+</span>
+
+<!-- Journal-7 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
 </span>
