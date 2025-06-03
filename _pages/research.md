@@ -92,12 +92,12 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 
 <!-- Journal-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Computational Linguistics (MIT Press)](https://direct.mit.edu/coli)<br/>
+[Computational Linguistics](https://aclanthology.org/venues/cl/)<br/>
 </span>
 
 <!-- Journal-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/index.php/tacl)<br/>
+[Transactions of the Association for Computational Linguistics (TACL)](https://aclanthology.org/venues/tacl/)<br/>
 </span>
 
 <!-- Journal-3 -->
