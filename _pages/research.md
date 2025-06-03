@@ -13,49 +13,83 @@ author_profile: true
 My research interests span several key areas, and I actively follow leading journals and conferences to stay updated on the latest trends and advancements:
 </p>
 
-## 1. Computer Vision (CV)
+## 1. Natural Language Processing (NLP)
 <p style="text-align:justify; color:black; font-family:Georgia">
-Computer Vision (CV) research focuses on enabling machines to interpret and make decisions based on visual data, replicating human-like understanding of images and videos. With advancements in deep learning, especially convolutional neural networks (CNNs), CV has achieved remarkable success in tasks such as object detection, facial recognition, and image segmentation. Current trends include the use of generative models for image synthesis, real-time processing for augmented and virtual reality applications, and the push for more efficient, explainable models to address concerns about transparency and bias. Moreover, there is growing interest in integrating CV with other domains, such as natural language processing, to create more comprehensive and multimodal AI systems.
+Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
 </p>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable journals in the field of Computer Vision: </i>
+<i>Some notable conferences in the field of Natural Language Processing: </i>
+</p>
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
+</span>
+
+<!-- Conference-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
+</span>
+
+<!-- Conference-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[International Conference on Computational Linguistics (COLING)](https://aclanthology.org/venues/coling/)<br/>
+</span>
+
+<!-- Conference-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[European Chapter of the Association for Computational Linguistics (EACL)](https://aclanthology.org/venues/eacl/)<br/>
+</span>
+
+<!-- Conference-6 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable journals in the field of Natural Language Processing: </i>
 </p>
 
 <!-- Journal-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263)<br/>
+[Computational Linguistics](https://aclanthology.org/venues/cl/)<br/>
 </span>
 
 <!-- Journal-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br/>
+[Transactions of the Association for Computational Linguistics (TACL)](https://aclanthology.org/venues/tacl/)<br/>
 </span>
 
 <!-- Journal-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Computer Vision and Image Understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)<br/>
+[Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing)<br/>
 </span>
 
 <!-- Journal-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)<br/>
+[Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/index.php/jair)<br/>
 </span>
 
 <!-- Journal-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Journal of Machine Vision and Applications](https://link.springer.com/journal/138)<br/>
+[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
 </span>
 
 <!-- Journal-6 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)<br/>
+[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
 </span>
 
-<!-- Journal-7 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)<br/>
-</span>
+## 2. Computer Vision (CV)
+<p style="text-align:justify; color:black; font-family:Georgia">
+Computer Vision (CV) research focuses on enabling machines to interpret and make decisions based on visual data, replicating human-like understanding of images and videos. With advancements in deep learning, especially convolutional neural networks (CNNs), CV has achieved remarkable success in tasks such as object detection, facial recognition, and image segmentation. Current trends include the use of generative models for image synthesis, real-time processing for augmented and virtual reality applications, and the push for more efficient, explainable models to address concerns about transparency and bias. Moreover, there is growing interest in integrating CV with other domains, such as natural language processing, to create more comprehensive and multimodal AI systems.
+</p>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
 <i>Some notable conferences in the field of Computer Vision: </i>
@@ -100,77 +134,43 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 [CVF Open Access (For papers from top conferences)](https://openaccess.thecvf.com/menu)<br/>
 </span>
 
-## 2. Natural Language Processing (NLP)
 <p style="text-align:justify; color:black; font-family:Georgia">
-Natural Language Processing (NLP) research focuses on enabling machines to understand, interpret, and generate human language, bridging the gap between human communication and computational systems. Recent trends in NLP include the rise of transformer-based models like BERT and GPT, which have set new benchmarks in tasks such as language translation, sentiment analysis, and text generation. Researchers are also exploring multimodal models that combine text with images or speech for richer understanding, as well as fine-tuning techniques that adapt pre-trained models to specific applications. Additionally, there is growing emphasis on improving model efficiency, handling low-resource languages, and addressing ethical concerns such as bias and fairness in language models, ensuring NLP technologies are both powerful and responsible.
-</p>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable journals in the field of Natural Language Processing: </i>
+<i>Some notable journals in the field of Computer Vision: </i>
 </p>
 
 <!-- Journal-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Computational Linguistics](https://aclanthology.org/venues/cl/)<br/>
+[International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263)<br/>
 </span>
 
 <!-- Journal-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Transactions of the Association for Computational Linguistics (TACL)](https://aclanthology.org/venues/tacl/)<br/>
+[IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br/>
 </span>
 
 <!-- Journal-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing)<br/>
+[Computer Vision and Image Understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)<br/>
 </span>
 
 <!-- Journal-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/index.php/jair)<br/>
+[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)<br/>
 </span>
 
 <!-- Journal-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
+[Journal of Machine Vision and Applications](https://link.springer.com/journal/138)<br/>
 </span>
 
 <!-- Journal-6 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
+[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)<br/>
 </span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable conferences in the field of Natural Language Processing: </i>
-</p>
-
-<!-- Conference-1 -->
+<!-- Journal-7 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
-</span>
-
-<!-- Conference-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
-</span>
-
-<!-- Conference-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Computational Linguistics (COLING)](https://aclanthology.org/venues/coling/)<br/>
-</span>
-
-<!-- Conference-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[European Chapter of the Association for Computational Linguistics (EACL)](https://aclanthology.org/venues/eacl/)<br/>
-</span>
-
-<!-- Conference-6 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
+[IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)<br/>
 </span>
 
 ## 3. Machine Learning (ML)
