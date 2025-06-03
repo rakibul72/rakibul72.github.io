@@ -195,10 +195,17 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 
 <!-- Conference-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[IEEE International Conference on Data Mining (ICDM)](https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings)<br/>
+  <a href="https://icml.cc/">International Conference on Machine Learning (ICML)</a>
+  &nbsp;|&nbsp;
+  <a href="https://icml.cc/virtual/2025/papers.html">ICML Papers Collection</a>
 </span>
 
 <!-- Conference-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE International Conference on Data Mining (ICDM)](https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings)<br/>
+</span>
+
+<!-- Conference-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
 </span>
