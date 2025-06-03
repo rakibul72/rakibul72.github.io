@@ -102,12 +102,12 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 
 <!-- Journal-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
+[Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing)<br/>
 </span>
 
 <!-- Journal-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Natural Language Engineering (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-engineering)<br/>
+[Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579)<br/>
 </span>
 
 <!-- Journal-5 -->
