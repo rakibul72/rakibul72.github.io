@@ -183,6 +183,20 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 </p>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
+<i>Some notable conferences in the field of Deep Learning and Machine Learning: </i>
+</p>
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[IEEE International Conference on Data Mining (ICDM)](https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
 <i>Some notable journals in the field of Deep Learning and Machine Learning: </i>
 </p>
 
@@ -226,49 +240,26 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 [Data Science and Engineering (Springer)](https://link.springer.com/journal/41019)<br/>
 </span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable conferences in the field of Deep Learning and Machine Learning: </i>
-</p>
-
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE International Conference on Data Mining (ICDM)](https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
-</span>
-
-## 4. Deep Learning (DL)
-<p style="text-align:justify; color:black; font-family:Georgia">
-Deep Learning (DL) research is a subset of machine learning that focuses on neural networks with many layers, enabling the development of highly powerful models capable of learning complex patterns from large datasets. Recent trends in DL research include advancements in transformer architectures, which have significantly improved performance in natural language processing and computer vision tasks. Additionally, the field is exploring self-supervised learning, where models learn from unlabeled data, and transfer learning, which leverages pre-trained models for specialized tasks. There is also growing interest in efficient deep learning models that can run on resource-constrained devices, as well as efforts to make DL systems more interpretable and fair, addressing challenges around transparency and bias in AI applications.
-</p>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>Some notable journals in the field of Deep Learning: </i>
-</p>
-
-<!-- Journal-1 -->
+<!-- Journal-9 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)<br/>
 </span>
 
-<!-- Journal-2 -->
+<!-- Journal-10 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)<br/>
 </span>
 
-<!-- Journal-3 -->
+<!-- Journal-11 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<br/>
 </span>
 
-<!-- Journal-4 -->
+<!-- Journal-12 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [Neural Computing & Applications](https://link.springer.com/journal/521)<br/>
 </span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
-<i>[*Note: Many journals and conferences have overlapping interests in Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). Therefore, please consider exploring those as well. Additionally, there are numerous multidisciplinary journals and conferences.]</i>
+<i>[*Note: Many journals and conferences have overlapping interests in Natural Language Processing (NLP), Computer Vision (CV), Deep Learning (DL) and Machine Learning (ML). Therefore, please consider exploring those as well. Additionally, there are numerous multidisciplinary journals and conferences.]</i>
 </p>
