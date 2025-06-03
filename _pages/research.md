@@ -73,10 +73,15 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 
 <!-- Conference-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings)<br/>
+[European Conference on Computer Vision (ECCV)](https://link.springer.com/conference/eccv) [ECCV Papers Collection](https://www.ecva.net/papers.php)<br/>
 </span>
 
 <!-- Conference-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings)<br/>
+</span>
+
+<!-- Conference-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [CVF Open Access (For papers from top conferences)](https://openaccess.thecvf.com/menu)<br/>
 </span>
