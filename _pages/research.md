@@ -146,6 +146,11 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 
 <!-- Conference-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
+[European Chapter of the Association for Computational Linguistics (EACL)](https://aclanthology.org/venues/eacl/)<br/>
+</span>
+
+<!-- Conference-6 -->
++ <span style="font-family:Trebuchet MS; color:black;">
 [ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
 </span>
 
