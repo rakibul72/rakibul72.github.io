@@ -22,18 +22,18 @@ redirect_from:
 </details>
 
 <details>
-<summary><b>Computer Vision (CV)</b></summary>
-<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>I explore the development and application of algorithms that enable computers to interpret and make decisions based on visual data. My work involves image processing, image generation, object detection, and facial recognition, with a keen interest in practical implementations across various industries.</em> </p></font></span>
-</details>
-
-<details>
 <summary><b>Natural Language Processing (NLP)</b></summary>
 <span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>Driven by the desire to bridge the gap between human language and machine understanding, I investigate NLP models for tasks such as sentiment analysis, language translation, language generation and conversational AI. My work contributes to the advancement of human-computer interaction and automated understanding of human language.</em></p></font></span>
 </details>
 
+<details>
+<summary><b>Computer Vision (CV)</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>I explore the development and application of algorithms that enable computers to interpret and make decisions based on visual data. My work involves image processing, image generation, object detection, and facial recognition, with a keen interest in practical implementations across various industries.</em> </p></font></span>
+</details>
+
 
 <details>
-<summary><b>Machine Learning (ML) & Deep Learning (DL)</b></summary>
+<summary><b>Deep Learning (DL) & Machine Learning (ML)</b></summary>
 <span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>With a focus on designing intelligent systems, I am involved in developing models that can learn from and adapt to data. My research in this domain covers supervised and unsupervised learning techniques, neural network architectures, and reinforcement learning applications.</em></p></font></span>
 </details>
 
