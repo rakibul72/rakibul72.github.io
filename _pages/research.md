@@ -126,15 +126,20 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 
 <!-- Conference-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
+[Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)<br/>
 </span>
 
 <!-- Conference-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
+[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
 </span>
 
 <!-- Conference-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
+</span>
+
+<!-- Conference-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
 </span>
