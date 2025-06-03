@@ -258,25 +258,20 @@ Machine Learning (ML) research centers on developing algorithms that enable comp
 
 <!-- Journal-8 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[Data Science and Engineering (Springer)](https://link.springer.com/journal/41019)<br/>
+[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)<br/>
 </span>
 
 <!-- Journal-9 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)<br/>
+[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)<br/>
 </span>
 
 <!-- Journal-10 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)<br/>
-</span>
-
-<!-- Journal-11 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
 [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<br/>
 </span>
 
-<!-- Journal-12 -->
+<!-- Journal-11 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [Neural Computing & Applications](https://link.springer.com/journal/521)<br/>
 </span>
