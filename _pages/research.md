@@ -141,6 +141,11 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 
 <!-- Conference-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
+[International Conference on Computational Linguistics (COLING)](https://aclanthology.org/venues/coling/)<br/>
+</span>
+
+<!-- Conference-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
 [ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
 </span>
 
