@@ -86,6 +86,15 @@ Natural Language Processing (NLP) research focuses on enabling machines to under
 [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
 </span>
 
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>For recent advancements in the field of Natural Language Processing: </i>
+</p>
+
+<!-- arXiv (NLP) -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[arXiv (Computation and Language)](https://arxiv.org/list/cs.CL/recent)<br/>
+</span>
+
 ## 2. Computer Vision (CV)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Computer Vision (CV) research focuses on enabling machines to interpret and make decisions based on visual data, replicating human-like understanding of images and videos. With advancements in deep learning, especially convolutional neural networks (CNNs), CV has achieved remarkable success in tasks such as object detection, facial recognition, and image segmentation. Current trends include the use of generative models for image synthesis, real-time processing for augmented and virtual reality applications, and the push for more efficient, explainable models to address concerns about transparency and bias. Moreover, there is growing interest in integrating CV with other domains, such as natural language processing, to create more comprehensive and multimodal AI systems.
@@ -171,6 +180,15 @@ Computer Vision (CV) research focuses on enabling machines to interpret and make
 <!-- Journal-7 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>For recent advancements in the field of Computer Vision: </i>
+</p>
+
+<!-- arXiv (CV) -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[arXiv (Computer Vision and Pattern Recognition)](https://arxiv.org/list/cs.CV/recent)<br/>
 </span>
 
 ## 3. Deep Learning (DL) & Machine Learning (ML)
