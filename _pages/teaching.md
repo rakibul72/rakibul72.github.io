@@ -53,8 +53,13 @@ title: ""
 </details>
 
 <details>
+<summary>CSE 2103:  Data Structures</summary>
+<span style="color:green"><font size="3"><ins>Conducted in Fall 2024</ins></font></span><br>
+</details>
+
+<details>
 <summary>CSE 2104:  Data Structures Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024 | Fall 2024</ins></font></span><br>
 </details>
 
 <details>
@@ -74,7 +79,7 @@ title: ""
 
 <details>
 <summary>CSE 4204:  Computer Graphics Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024 | Fall 2024</ins></font></span><br>
 </details>
 
 ## Conducted Courses @SEU 
@@ -84,6 +89,10 @@ title: ""
 
 <details>
 <summary>CSE162: Programming Language-I Lab (C)</summary>
+</details>
+
+<details>
+<summary>CSE181: Discrete Mathematics</summary>
 </details>
 
 <details>
@@ -104,6 +113,10 @@ title: ""
 
 <details>
 <summary>CSE266: Algorithm Lab</summary>
+</details>
+
+<details>
+<summary>CSE343: Computer Architecture</summary>
 </details>
 
 <details>
