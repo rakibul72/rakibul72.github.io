@@ -8,7 +8,7 @@ title: ""
 
 <!-- Lecturer -->
 + <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Lecturer (Grade-I)</span><br/>
+<span style="color:#6E2C00">Senior Lecturer (Lecturer Grade-I)</span><br/>
 [Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
 [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/)<br/>
 <span style="color:#6E2C00"><em>December 2025 - Present</em></span>
