@@ -39,6 +39,21 @@ author_profile: true
 
 ## Conference Papers <i>(Recent First)</i>
 -------
+<!-- Paper 02 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks**</span>](https://arxiv.org/abs/2512.21694) (<span style="color:PaleVioletRed"><strong>Presented for publication</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong></font>, Md. Kamrozzaman Bhuiyan, Safwan Muntasir, Arifur Rahman Jawad, and Most. Sharmin Sultana Samu
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/1002111/all-proceedings))
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Year of Publication</strong>: 2025</font>
+</span>
+<br>
+
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Advancing AI-Generated Image Detection: Enhanced Accuracy through CNN and Vision Transformer Models with Explainable AI Insights**</span>](https://ieeexplore.ieee.org/abstract/document/10440990)<br>
 <span style="color:black;font-family:Georgia">
