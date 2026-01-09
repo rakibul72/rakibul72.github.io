@@ -114,8 +114,15 @@ author_profile: true
 </span>
 <br>
 
-## Under Review Papers
+## Under Review Papers <i>(Recent First)</i>
 -------
+<!-- Paper 02 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering**</span>](https://arxiv.org/abs/2601.05143) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Most. Sharmin Sultana Samu, <strong style="color: green">Md. Rakibul Islam</strong>, and Md. Siam Ansary</font>
+</span>
+<br>
+
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Explainable AI-Driven Detection of Human Monkeypox Using Deep Learning and Vision Transformers: A Comprehensive Analysis**</span>](https://arxiv.org/pdf/2505.01429) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
