@@ -7,6 +7,21 @@ author_profile: true
 
 ## Journal Papers <i>(Recent First)</i>
 -------
+<!-- Paper 03 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A regression-based multi-task machine and deep learning framework for explainable AI driven birth weight prediction in maternal and neonatal care**</span>](https://link.springer.com/article/10.1007/s44163-026-01012-w) (<span style="color:PaleVioletRed"><strong>Q1</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Anika Bintee Aftab, Nishat Anjum Lea, and <strong style="color: green">Md. Rakibul Islam</strong></font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Discover Artificial Intelligence</em></font> ([Discover Artificial Intelligence](https://link.springer.com/journal/44163))
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Year of Publication</strong>: 2026</font>
+</span>
+<br>
+
 <!-- Paper 02 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**</span>](https://link.springer.com/article/10.1007/s44174-025-00538-4) (<span style="color:PaleVioletRed"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
