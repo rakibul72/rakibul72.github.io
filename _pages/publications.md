@@ -139,7 +139,7 @@ author_profile: true
 <br>
 
 <!-- Paper 02 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering**</span>](https://arxiv.org/abs/2601.05143) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A Two-Stage Multitask Vision-Language Framework for Explainable Crop Disease Visual Question Answering**</span>](https://arxiv.org/abs/2601.05143) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Most. Sharmin Sultana Samu, <strong style="color: green">Md. Rakibul Islam</strong>, and Md. Siam Ansary</font>
 </span>
