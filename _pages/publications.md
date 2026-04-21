@@ -131,6 +131,13 @@ author_profile: true
 
 ## Under Review/Preprint Papers <i>(Recent First)</i>
 -------
+<!-- Paper 04 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Attention Is not Everything: Efficient Alternatives for Vision**</span>](https://arxiv.org/abs/2604.17439) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Nur Mohammad Kazi, Ibteshum Khaled, Md. Luthful Hasan Galib, Ali Faruk Shihab, and <strong style="color: green">Md. Rakibul Islam</strong> </font>
+</span>
+<br>
+
 <!-- Paper 03 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**AI as Teammate or Tool? A Review of Human-AI Interaction in Decision Support**</span>](https://arxiv.org/abs/2602.15865) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
