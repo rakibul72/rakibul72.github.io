@@ -131,6 +131,13 @@ author_profile: true
 
 ## Under Review/Preprint Papers <i>(Recent First)</i>
 -------
+<!-- Paper 05 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**From Automation to Collaboration: Human-in-the-Loop Methods for Safe and Trustworthy NLP**</span>](https://arxiv.org/abs/2605.25226) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Most. Sharmin Sultana Samu, MD. Tanvir Ahmed Seum, and <strong style="color: green">Md. Rakibul Islam</strong> </font>
+</span>
+<br>
+
 <!-- Paper 04 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Attention Is not Everything: Efficient Alternatives for Vision**</span>](https://arxiv.org/abs/2604.17439) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
