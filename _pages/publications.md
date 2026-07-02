@@ -23,7 +23,7 @@ author_profile: true
 <br>
 
 <!-- Paper 02 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**</span>](https://link.springer.com/article/10.1007/s44174-025-00538-4) (<span style="color:PaleVioletRed"><strong>Q2</strong></span>)<br>
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**</span>](https://link.springer.com/article/10.1007/s44174-025-00538-4) (<span style="color:PaleVioletRed"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Mustofa Ahmed, Most. Sharmin Sultana Samu, and <strong style="color: green">Md. Rakibul Islam</strong></font>
 </span>
