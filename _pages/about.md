@@ -8,8 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black; font-family:Georgia">Greetings! </span>
+<p style="text-align:justify; color:black; font-family:Georgia"> I am a Senior Lecturer in the <a href="https://www.aust.edu/cse">Department of Computer Science and Engineering (CSE)</a> at <a href="https://www.aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>. My research focuses on developing intelligent, trustworthy, and human-centered AI systems that address real-world challenges through interdisciplinary approaches. My primary research interests include Natural Language Processing (NLP), AI Alignment, Human-AI Interaction, Vision-Language Models, and Deep Learning. I am particularly interested in advancing large language models and multimodal AI, with an emphasis on aligning AI systems with human values, improving human–AI collaboration, and developing robust solutions for language and vision understanding.</p>
 
+<p style="text-align:justify; color:black; font-family:Georgia">
+  <em>
+    I welcome opportunities to collaborate with academic and industry partners on innovative research and applications in computational linguistics and artificial intelligence. If you are interested in exploring potential collaborations please feel free to contact me via email.
+  </em>
+</p>
+
+
+
+<!--
+ !!!Older Version Commented out!!!
+
+ <span style="color:black; font-family:Georgia">Greetings! </span>
+
+ 
 <p style="text-align:justify; color:black; font-family:Georgia"> I am Md. Rakibul Islam, a dedicated educator and researcher currently serving as a Senior Lecturer in the <a href="https://www.aust.edu/cse">Department of Computer Science and Engineering (CSE)</a> at <a href="https://www.aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>. I am a committed academic with a passion for fostering innovation, bringing a wealth of knowledge and a strong enthusiasm for advancing the field of computer science. I earned my Bachelor of Science degree in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), where I developed a solid foundation in software development, data analysis, and computational theory. My academic background is complemented by practical experience, allowing me to deliver a comprehensive and real-world perspective to my students.</p>
 
 <p style="text-align:justify; color:black; font-family:Georgia"> Before joining AUST as a Lecturer, I served as a Lecturer at <a href="https://new.seu.edu.bd/">Southeast University (SEU)</a>. During my tenure at SEU, I contributed to course material development, mentored students in research and practical projects, and taught core computer science courses with a focus on instilling a deep understanding of both the theoretical and applied aspects of the field. My teaching philosophy revolves around active learning, critical thinking, and preparing students to become lifelong learners and problem solvers. At AUST, I continue to engage students through hands-on projects, innovative teaching methods, and a focus on the latest advancements in technology. I emphasize collaborative learning and work to create a stimulating academic environment that inspires curiosity and a passion for discovery among my students.</p>
@@ -66,3 +80,5 @@ redirect_from:
 
 <p style="text-align:justify; color:black; font-family:Georgia"> Apart from teaching and research, I actively participate in academic events, workshops, and seminars. I am committed to mentoring students, fostering an environment where new ideas and innovations can flourish. My future goals include expanding my research into unexplored domains, collaborating with global experts, and contributing to the academic excellence of AUST and the broader computer science community. I believe that the rapid evolution of technology brings both immense opportunities and challenges. As a lecturer and researcher, I am committed to being at the forefront of this change, preparing my students to excel in a data-driven world and contributing to the development of intelligent and responsible technology.
 </p>
+
+-->
