@@ -22,34 +22,42 @@ orcid: 0009-0003-6420-8257
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Senior Lecturer in the Department of CSE at Ahsanullah University of Science and Technology (AUST). My research focuses on developing intelligent, trustworthy, and human-centered AI systems that address real-world challenges through interdisciplinary approaches. My primary research interests include <strong>Natural Language Processing</strong>, <strong>AI Alignment</strong>, <strong>Human-AI Interaction</strong>, <strong>Vision-Language Models</strong>, and <strong>Deep Learning</strong>. I am particularly interested in advancing large language models and multimodal AI, with an emphasis on aligning AI systems with human values, improving human–AI collaboration, and developing robust solutions for language and vision understanding.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  I welcome opportunities to collaborate with academic and industry partners on innovative research and applications in <em>computational linguistics</em> and <em>artificial intelligence</em>. If you are interested in exploring potential collaborations, please feel free to contact me via email.
   </p>
+
 
 portrait_url: /assets/images/photos/Rakib_Profile_Pic1.jpg
 
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: BRAC University
+  logo: /assets/images/badges/brac_logo.png
+  position: M.Sc. in Computer Science
+  date: Jun. 2024 - Jun. 2026
+  
+- name: Ahsanullah University of Science and Technology
+  logo: /assets/images/badges/aust_logo.png
+  position: B.Sc. in Computer Science
+  date: Apr. 2018 - Jan. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Ahsanullah University of Science and Technology
+  logo: /assets/images/badges/aust_logo.png
+  position: Senior Lecturer
+  date: Dec. 2025 - Present
+
+- name: Ahsanullah University of Science and Technology
+  logo: /assets/images/badges/aust_logo.png
+  position: Lecturer
+  date: Oct. 2023 - Nov. 2025
+
+- name: Southeast University
+  logo: /assets/images/badges/seu_logo.png
+  position: Lecturer
+  date: Jul. 2023 - Oct. 2023
 
 awards:
 - name: Award Name 2
