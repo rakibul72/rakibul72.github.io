@@ -4,7 +4,7 @@ navbar_name: ""
 
 positions:
 - name: Senior Lecturer
-- name: Ahsanullah University of Science and Technology
+- name: Department of CSE, AUST
   logo: /assets/images/badges/aust_logo.png  # Logo is optional
 
 
@@ -38,18 +38,18 @@ education:
   position: M.Sc. in Computer Science
   date: Jun. 2024 - Jun. 2026
   
-- name: Ahsanullah University of Science and Technology
+- name: AUST
   logo: /assets/images/badges/aust_logo.png
   position: B.Sc. in Computer Science
   date: Apr. 2018 - Jan. 2023
 
 experience:
-- name: Ahsanullah University of Science and Technology
+- name: AUST
   logo: /assets/images/badges/aust_logo.png
   position: Senior Lecturer
   date: Dec. 2025 - Present
 
-- name: Ahsanullah University of Science and Technology
+- name: AUST
   logo: /assets/images/badges/aust_logo.png
   position: Lecturer
   date: Oct. 2023 - Nov. 2025
