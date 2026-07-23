@@ -19,12 +19,12 @@ github: rakibul72
 linkedin: rakibul-islam72
 orcid: 0009-0003-6420-8257
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
-  <p class="text-profile-bio">
+  <p>
     I am a Senior Lecturer in the Department of CSE at Ahsanullah University of Science and Technology (AUST). My research focuses on developing intelligent, trustworthy, and human-centered AI systems that address real-world challenges through interdisciplinary approaches. My primary research interests include <strong>Natural Language Processing</strong>, <strong>AI Alignment</strong>, <strong>Human-AI Interaction</strong>, <strong>Vision-Language Models</strong>, and <strong>Deep Learning</strong>. I am particularly interested in advancing large language models and multimodal AI, with an emphasis on aligning AI systems with human values, improving human–AI collaboration, and developing robust solutions for language and vision understanding.
   </p>
-  <p class="text-profile-bio">
+  <p>
   I welcome opportunities to collaborate with academic and industry partners on innovative research and applications in <em>computational linguistics</em> and <em>artificial intelligence</em>. If you are interested in exploring potential collaborations, please feel free to contact me via email.
   </p>
 
