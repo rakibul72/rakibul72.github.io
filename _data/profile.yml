@@ -5,7 +5,7 @@ navbar_name: ""
 positions:
 - name: Senior Lecturer
 - name: Ahsanullah University of Science and Technology
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/aust_logo.png  # Logo is optional
 
 
 email: "rakib.cse@aust.edu"
