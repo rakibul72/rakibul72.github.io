@@ -91,3 +91,12 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.portrait {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #eeeeee;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
