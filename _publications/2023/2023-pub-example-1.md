@@ -5,7 +5,7 @@ selected:       true
 pub:            "ICCIT"
 pub_date:       "2023"
 abstract: >-
-  <strong>TL;DR</strong>: We detect AI-generated images using optimized CNNs, achieving 96.31% accuracy, with Grad-CAM providing insights into model decisions.
+  TL;DR: We detect AI-generated images using optimized CNNs, achieving 96.31% accuracy, with Grad-CAM providing insights into model decisions.
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Md. Zahid Hossain
