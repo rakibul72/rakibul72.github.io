@@ -1,17 +1,16 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Advancing AI-Generated Image Detection: Enhanced Accuracy through CNN and Vision Transformer Models with Explainable AI Insights"
+date:           2023-12-13 10:00:00 -0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "ICCIT"
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  <strong>TL;DR</strong>: We detect AI-generated images using optimized CNNs, achieving 96.31% accuracy, with Grad-CAM providing insights into model decisions.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Md. Zahid Hossain
+- Farhad Uz Zaman
+- Md. Rakibul Islam
 links:
-  Paper: https://www.cell.com
+  Paper: https://ieeexplore.ieee.org/abstract/document/10440990
 ---
