@@ -22,6 +22,7 @@ Duration: 2018 - 2022 <br/>
 CGPA: <b>3.936/4.00</b> scale (Ranked <b>1<sup>st</sup></b>)<br/>
 </span>
 
+<!--
 <!-- HSC -->
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px"><b><a href="https://www.abdurroufcollege.ac.bd/" target="_blank">Birshreshtha Munshi Abdur Rouf Public College</a></b></span><br/>
@@ -37,6 +38,7 @@ Secondary School Certificate (SSC) <br/>
 Duration: 2013 - 2015 <br/>
 GPA: <b>5.00/5.00</b> scale <br/>
 </span>
+-->
 
 ## Awards
 <span style="font-family:Georgia; color:black">
