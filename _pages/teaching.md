@@ -115,7 +115,7 @@ title: ""
 
 <ul>
 <li>CSE 1288: Computer Programming Lab (C)</li>
-<li>CSE 2100: Software Development-II</li>
+<li>CSE 2100: Software Development-II (Flutter)</li>
 <li>CSE 2104: Data Structures Lab</li>
 <li>CSE 2146: Introduction to Computer Science</li>
 <li>CSE 2186: Basic Programming Techniques (C)</li>
@@ -129,7 +129,7 @@ title: ""
 
 <ul>
 <li>CSE 1288: Computer Programming Lab (C)</li>
-<li>CSE 2200: Software Development-III</li>
+<li>CSE 2200: Software Development-III (Android)</li>
 </ul>
 
 </details>
