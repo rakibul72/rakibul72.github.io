@@ -66,11 +66,46 @@ title: ""
 ## Conducted Courses @AUST
 
 <details>
-<summary><b>Fall 2022</b></summary>
+<summary><b>Spring 2025</b></summary>
 
 <ul>
-<li>CSE 1288: Computer Programming Lab (C)</li>
-<li>CSE 2200: Software Development-III</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+<li>CSE 4261: Data Analytics</li>
+<li>CSE 4262: Data Analytics Lab</li>
+</ul>
+
+</details>
+
+<details>
+<summary><b>Fall 2024</b></summary>
+
+<ul>
+<li>CSE 2103: Data Structures</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+</ul>
+
+</details>
+
+<details>
+<summary><b>Spring 2024</b></summary>
+
+<ul>
+<li>CSE 1102: Elementary Structured Programming Lab (C)</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+</ul>
+
+</details>
+
+<details>
+<summary><b>Fall 2023</b></summary>
+
+<ul>
+<li>CSE 1278: Computer Programming and Algorithms Lab (Python)</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
 </ul>
 
 </details>
@@ -90,46 +125,11 @@ title: ""
 </details>
 
 <details>
-<summary><b>Fall 2023</b></summary>
+<summary><b>Fall 2022</b></summary>
 
 <ul>
-<li>CSE 1278: Computer Programming and Algorithms Lab (Python)</li>
-<li>CSE 2104: Data Structures Lab</li>
-<li>CSE 4204: Computer Graphics Lab</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>Spring 2024</b></summary>
-
-<ul>
-<li>CSE 1102: Elementary Structured Programming Lab (C)</li>
-<li>CSE 2104: Data Structures Lab</li>
-<li>CSE 4204: Computer Graphics Lab</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>Fall 2024</b></summary>
-
-<ul>
-<li>CSE 2103: Data Structures</li>
-<li>CSE 2104: Data Structures Lab</li>
-<li>CSE 4204: Computer Graphics Lab</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>Spring 2025</b></summary>
-
-<ul>
-<li>CSE 2104: Data Structures Lab</li>
-<li>CSE 4204: Computer Graphics Lab</li>
-<li>CSE 4261: Data Analytics</li>
-<li>CSE 4262: Data Analytics Lab</li>
+<li>CSE 1288: Computer Programming Lab (C)</li>
+<li>CSE 2200: Software Development-III</li>
 </ul>
 
 </details>
