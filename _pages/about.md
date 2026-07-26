@@ -11,9 +11,13 @@ redirect_from:
 <p style="text-align:justify; color:black; font-family:Georgia"> I am a Senior Lecturer in the <a href="https://www.aust.edu/cse">Department of Computer Science and Engineering (CSE)</a> at <a href="https://www.aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>. My research focuses on developing intelligent, trustworthy, and human-centered AI systems that address real-world challenges through interdisciplinary approaches. My primary research interests include:
   
   🗹 Natural Language Processing (NLP)
+  
   🗹 AI Alignment
+  
   🗹 Human-AI Interaction
+  
   🗹 Vision-Language Models
+  
   🗹 Deep Learning
   
 I am particularly interested in advancing large language models and multimodal AI, with an emphasis on aligning AI systems with human values, improving human–AI collaboration, and developing robust solutions for language and vision understanding.</p>
