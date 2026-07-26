@@ -20,12 +20,38 @@ permalink: /resources/
 
 </details>
 
+<details>
+<summary>Computer Vision</summary>
 
+<ul>
+<li><a href="https://cvpr.thecvf.com/">Conference on Computer Vision and Pattern Recognition (CVPR)</a></li>
+<li><a href="https://iccv.thecvf.com/">International Conference on Computer Vision (ICCV)</a></li>
+<li><a href="https://www.ecva.net/">European Conference on Computer Vision (ECCV)</a></li>
+<li><a href="https://wacv2025.thecvf.com/">Winter Conference on Applications of Computer Vision (WACV)</a></li>
+<li><a href="https://accv2024.org/">Asian Conference on Computer Vision (ACCV)</a></li>
+<li><a href="https://2024.ieeeicip.org/">International Conference on Image Processing (ICIP)</a></li>
+<li><a href="https://openaccess.thecvf.com/">CVF Open Access Papers</a></li>
+</ul>
+
+</details>
+
+<details>
+<summary>ML/DL</summary>
+
+<ul>
+<li><a href="https://neurips.cc/">Conference on Neural Information Processing Systems (NeurIPS)</a></li>
+<li><a href="https://icml.cc/">International Conference on Machine Learning (ICML)</a></li>
+<li><a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a></li>
+<li><a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a></li>
+<li><a href="https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings">International Conference on Machine Learning Applications (ICMLA)</a></li>
+</ul>
+
+</details>
 
 ## List of Major Journals
 
 <details>
-<summary><b>Natural Language Processing (NLP)</b></summary>
+<summary>Natural Language Processing (NLP)</summary>
 
 <ul>
 <li><a href="https://direct.mit.edu/coli">Computational Linguistics</a></li>
@@ -38,13 +64,62 @@ permalink: /resources/
 
 </details>
 
+<details>
+<summary>Computer Vision</summary>
+
+<ul>
+<li><a href="https://link.springer.com/journal/11263">International Journal of Computer Vision (IJCV)</a></li>
+<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a></li>
+<li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">Computer Vision and Image Understanding</a></li>
+<li><a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a></li>
+<li><a href="https://link.springer.com/journal/138">Machine Vision and Applications</a></li>
+<li><a href="https://www.sciencedirect.com/journal/image-and-vision-computing">Image and Vision Computing</a></li>
+<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">IEEE Transactions on Image Processing</a></li>
+</ul>
+
+</details>
+
+<details>
+<summary>ML/DL</summary>
+
+<ul>
+<li><a href="https://www.jmlr.org/">Journal of Machine Learning Research (JMLR)</a></li>
+<li><a href="https://link.springer.com/journal/10994">Machine Learning Journal</a></li>
+<li><a href="https://www.sciencedirect.com/journal/neural-networks">Neural Networks</a></li>
+<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems</a></li>
+<li><a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a></li>
+<li><a href="https://dl.acm.org/journal/tist">ACM Transactions on Intelligent Systems and Technology</a></li>
+<li><a href="https://link.springer.com/journal/10044">Pattern Analysis and Applications</a></li>
+<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a></li>
+</ul>
+
+</details>
+
 ## For Recent Research Advancements
 
 <details>
-<summary><b>Natural Language Processing (NLP)</b></summary>
+<summary>Natural Language Processing (NLP)</summary>
 
 <ul>
 <li><a href="https://arxiv.org/list/cs.CL/recent">arXiv - Computation and Language</a></li>
+</ul>
+
+</details>
+
+<details>
+<summary>Computer Vision</summary>
+
+<ul>
+<li><a href="https://arxiv.org/list/cs.CV/recent">arXiv - Computer Vision and Pattern Recognition</a></li>
+</ul>
+
+</details>
+
+<details>
+<summary>ML/DL</summary>
+
+<ul>
+<li><a href="https://arxiv.org/list/cs.LG/recent">arXiv - Machine Learning</a></li>
 </ul>
 
 </details>
