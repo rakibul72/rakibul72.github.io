@@ -40,11 +40,13 @@ title: ""
 </span>
 
 ## Editorial and Reviewing Activities
+
 <details>
 <summary>Peer Reviewer</summary>
-+ <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:green"><font size="5">[Machine Learning: Health](https://iopscience.iop.org/journal/3049-477X)</font></span><br>
-<span style="color:green"><font size="5">[Neural Computing and Applications](https://link.springer.com/journal/521)</font></span><br>
+
+- [Machine Learning: Health](https://iopscience.iop.org/journal/3049-477X)
+- [Neural Computing and Applications](https://link.springer.com/journal/521)
+
 </details>
 
 
