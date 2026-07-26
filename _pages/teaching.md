@@ -44,8 +44,10 @@ title: ""
 <details>
 <summary>Peer Reviewer</summary>
 
-- [Machine Learning: Health](https://iopscience.iop.org/journal/3049-477X)
-- [Neural Computing and Applications](https://link.springer.com/journal/521)
+<ul>
+<li><a href="https://iopscience.iop.org/journal/3049-477X">Machine Learning: Health</a></li>
+<li><a href="https://link.springer.com/journal/521">Neural Computing and Applications</a></li>
+</ul>
 
 </details>
 
