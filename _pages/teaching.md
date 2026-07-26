@@ -66,7 +66,7 @@ title: ""
 ## Conducted Courses @AUST
 
 <details>
-<summary><b>Spring 2025</b></summary>
+<summary>Spring 2025</summary>
 
 <ul>
 <li>CSE 2104: Data Structures Lab</li>
@@ -78,7 +78,7 @@ title: ""
 </details>
 
 <details>
-<summary><b>Fall 2024</b></summary>
+<summary>Fall 2024</summary>
 
 <ul>
 <li>CSE 2103: Data Structures</li>
@@ -89,7 +89,7 @@ title: ""
 </details>
 
 <details>
-<summary><b>Spring 2024</b></summary>
+<summary>Spring 2024</summary>
 
 <ul>
 <li>CSE 1102: Elementary Structured Programming Lab (C)</li>
@@ -100,7 +100,7 @@ title: ""
 </details>
 
 <details>
-<summary><b>Fall 2023</b></summary>
+<summary>Fall 2023</summary>
 
 <ul>
 <li>CSE 1278: Computer Programming and Algorithms Lab (Python)</li>
@@ -111,7 +111,7 @@ title: ""
 </details>
 
 <details>
-<summary><b>Spring 2023</b></summary>
+<summary>Spring 2023</summary>
 
 <ul>
 <li>CSE 1288: Computer Programming Lab (C)</li>
@@ -125,7 +125,7 @@ title: ""
 </details>
 
 <details>
-<summary><b>Fall 2022</b></summary>
+<summary>Fall 2022</summary>
 
 <ul>
 <li>CSE 1288: Computer Programming Lab (C)</li>
@@ -138,7 +138,7 @@ title: ""
 ## Conducted Courses @SEU
 
 <details>
-<summary><b>Courses Taught</b></summary>
+<summary>Courses Taught</summary>
 
 <ul>
 <li>CSE161: Programming Language-I (C)</li>
