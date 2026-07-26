@@ -6,38 +6,49 @@ title: ""
  
 ## Teaching Experience
 
-<!-- Lecturer -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Senior Lecturer (Lecturer Grade-I)</span><br/>
-[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
-[Ahsanullah University of Science and Technology (AUST)](https://aust.edu/)<br/>
-<span style="color:#6E2C00"><em>December 2025 - Present</em></span>
-</span>
+<details>
+<summary>Senior Lecturer (Lecturer Grade-I)</summary>
 
-<!-- Lecturer -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Lecturer (Grade-II)</span><br/>
-[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
-[Ahsanullah University of Science and Technology (AUST)](https://aust.edu/)<br/>
-<span style="color:#6E2C00"><em>October 2023 - November 2025</em></span>
-</span>
+<ul>
+<li><a href="https://aust.edu/cse">Department of Computer Science and Engineering</a></li>
+<li><a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a></li>
+<li><em>December 2025 - Present</em></li>
+</ul>
 
+</details>
 
-<!-- Lecturer -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Lecturer</span><br/>
-[Department of Computer Science and Engineering](https://new.seu.edu.bd/computer-science-and-engineering)<br/>
-[Southeast University (SEU)](https://new.seu.edu.bd/)<br/>
-<span style="color:#6E2C00"><em>July 2023 - October 2023</em></span>
-</span>
+<details>
+<summary>Lecturer (Grade-II)</summary>
 
-<!-- Part Time -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Lecturer (Adjunct)</span><br/>
-[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
-[Ahsanullah University of Science and Technology (AUST)](https://aust.edu/)<br/>
-<span style="color:#6E2C00"><em>May 2023 - October 2023</em></span>
-</span>
+<ul>
+<li><a href="https://aust.edu/cse">Department of Computer Science and Engineering</a></li>
+<li><a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a></li>
+<li><em>October 2023 - November 2025</em></li>
+</ul>
+
+</details>
+
+<details>
+<summary>Lecturer</summary>
+
+<ul>
+<li><a href="https://new.seu.edu.bd/computer-science-and-engineering">Department of Computer Science and Engineering</a></li>
+<li><a href="https://new.seu.edu.bd/">Southeast University (SEU)</a></li>
+<li><em>July 2023 - October 2023</em></li>
+</ul>
+
+</details>
+
+<details>
+<summary>Lecturer (Adjunct)</summary>
+
+<ul>
+<li><a href="https://aust.edu/cse">Department of Computer Science and Engineering</a></li>
+<li><a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a></li>
+<li><em>May 2023 - October 2023</em></li>
+</ul>
+
+</details>
 
 ## Editorial and Reviewing Activities
 
