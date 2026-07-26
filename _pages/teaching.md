@@ -4,7 +4,7 @@ permalink: /teaching/
 title: ""
 ---
  
-## Experience
+## Teaching Experience
 
 <!-- Lecturer -->
 + <span style="font-family:Trebuchet MS; color:black;">
@@ -38,6 +38,15 @@ title: ""
 [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/)<br/>
 <span style="color:#6E2C00"><em>May 2023 - October 2023</em></span>
 </span>
+
+## Editorial and Reviewing Activities
+<details>
+<summary>Peer Reviewer</summary>
++ <span style="font-family:Trebuchet MS; color:black;">
+<span style="color:green"><font size="5">[Machine Learning: Health](https://iopscience.iop.org/journal/3049-477X)</font></span><br>
+<span style="color:green"><font size="5">[Neural Computing and Applications](https://link.springer.com/journal/521)</font></span><br>
+</details>
+
 
 ## Conducted Courses @AUST 
 <details>
