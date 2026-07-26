@@ -3,6 +3,51 @@ layout: archive
 title: ""
 permalink: /resources/
 ---
+
+## List of Major Conferences
+
+<details>
+<summary>Natural Language Processing (NLP)</summary>
+
+<ul>
+<li><a href="https://aclanthology.org/venues/acl/">Annual Meeting of the Association for Computational Linguistics (ACL)</a></li>
+<li><a href="https://aclanthology.org/venues/emnlp/">Conference on Empirical Methods in Natural Language Processing (EMNLP)</a></li>
+<li><a href="https://2024.naacl.org/">North American Chapter of ACL (NAACL)</a></li>
+<li><a href="https://aclanthology.org/venues/coling/">International Conference on Computational Linguistics (COLING)</a></li>
+<li><a href="https://aclanthology.org/venues/eacl/">European Chapter of ACL (EACL)</a></li>
+<li><a href="https://aclanthology.org/">ACL Anthology (Conference Proceedings)</a></li>
+</ul>
+
+</details>
+
+
+
+## List of Major Journals
+
+<details>
+<summary><b>Natural Language Processing (NLP)</b></summary>
+
+<ul>
+<li><a href="https://direct.mit.edu/coli">Computational Linguistics</a></li>
+<li><a href="https://aclanthology.org/venues/tacl/">Transactions of the Association for Computational Linguistics (TACL)</a></li>
+<li><a href="https://www.cambridge.org/core/journals/natural-language-processing">Natural Language Processing (Cambridge University Press)</a></li>
+<li><a href="https://www.jair.org/">Journal of Artificial Intelligence Research (JAIR)</a></li>
+<li><a href="https://dl.acm.org/journal/tallip">ACM Transactions on Asian and Low-Resource Language Information Processing</a></li>
+<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM Transactions on Audio, Speech, and Language Processing</a></li>
+</ul>
+
+</details>
+
+## For Recent Research Advancements
+
+<details>
+<summary><b>Natural Language Processing (NLP)</b></summary>
+
+<ul>
+<li><a href="https://arxiv.org/list/cs.CL/recent">arXiv - Computation and Language</a></li>
+</ul>
+
+</details>
  
 ## Helpful Resources for Research 
 
