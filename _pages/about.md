@@ -23,7 +23,7 @@ redirect_from:
   🗹 Deep Learning
 <br>
 
-I am particularly interested in advancing large language models and multimodal AI, with an emphasis on aligning AI systems with human values, improving human–AI collaboration, and developing robust solutions for language and vision understanding.</p>
+I am particularly interested in advancing large language models and multimodal AI, with an emphasis on aligning AI systems with human values, improving human-AI collaboration, and developing robust solutions for language and vision understanding.</p>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
   <em>
