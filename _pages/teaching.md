@@ -63,112 +63,96 @@ title: ""
 </details>
 
 
-## Conducted Courses @AUST 
+## Conducted Courses @AUST
+
 <details>
-<summary>CSE 1102:  Elementary Structured Programming Lab (C)</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2024</ins></font></span><br>
+<summary><b>Fall 2022</b></summary>
+
+<ul>
+<li>CSE 1288: Computer Programming Lab (C)</li>
+<li>CSE 2200: Software Development-III</li>
+</ul>
+
 </details>
 
 <details>
-<summary>CSE 1278:  Computer Programming and Algorithms Lab (Python)</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2023</ins></font></span><br>
+<summary><b>Spring 2023</b></summary>
+
+<ul>
+<li>CSE 1288: Computer Programming Lab (C)</li>
+<li>CSE 2100: Software Development-II</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 2146: Introduction to Computer Science</li>
+<li>CSE 2186: Basic Programming Techniques (C)</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+</ul>
+
 </details>
 
 <details>
-<summary>CSE 1288: Computer Programming Lab (C)</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2022 | Spring 2023</ins></font></span><br>
+<summary><b>Fall 2023</b></summary>
+
+<ul>
+<li>CSE 1278: Computer Programming and Algorithms Lab (Python)</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+</ul>
+
 </details>
 
 <details>
-<summary>CSE 2100:  Software Development-II</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023</ins></font></span><br>
+<summary><b>Spring 2024</b></summary>
+
+<ul>
+<li>CSE 1102: Elementary Structured Programming Lab (C)</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+</ul>
+
 </details>
 
 <details>
-<summary>CSE 2103:  Data Structures</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2024</ins></font></span><br>
+<summary><b>Fall 2024</b></summary>
+
+<ul>
+<li>CSE 2103: Data Structures</li>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+</ul>
+
 </details>
 
 <details>
-<summary>CSE 2104:  Data Structures Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024 | Fall 2024 | Spring 2025</ins></font></span><br>
+<summary><b>Spring 2025</b></summary>
+
+<ul>
+<li>CSE 2104: Data Structures Lab</li>
+<li>CSE 4204: Computer Graphics Lab</li>
+<li>CSE 4261: Data Analytics</li>
+<li>CSE 4262: Data Analytics Lab</li>
+</ul>
+
 </details>
 
-<details>
-<summary>CSE 2146:  Introduction to Computer Science</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023</ins></font></span><br>
-</details>
+
+## Conducted Courses @SEU
 
 <details>
-<summary>CSE 2186:  Basic Programming Techniques (C)</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023</ins></font></span><br>
-</details>
+<summary><b>Courses Taught</b></summary>
 
-<details>
-<summary>CSE 2200:  Software Development-III</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2022</ins></font></span><br>
-</details>
+<ul>
+<li>CSE161: Programming Language-I (C)</li>
+<li>CSE162: Programming Language-I Lab (C)</li>
+<li>CSE181: Discrete Mathematics</li>
+<li>CSE241: Data Structures</li>
+<li>CSE242: Data Structures Lab</li>
+<li>CSE261: Numerical Methods</li>
+<li>CSE265: Algorithm</li>
+<li>CSE266: Algorithm Lab</li>
+<li>CSE343: Computer Architecture</li>
+<li>CSE355: Image Processing</li>
+<li>CSE443: Computer Graphics & Animation</li>
+<li>CSE444: Computer Graphics & Animation Lab</li>
+</ul>
 
-<details>
-<summary>CSE 4204:  Computer Graphics Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023 | Spring 2024 | Fall 2024 | Spring 2025</ins></font></span><br>
-</details>
-
-<details>
-<summary>CSE 4261:  Data Analytics</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2025</ins></font></span><br>
-</details>
-
-<details>
-<summary>CSE 4262:  Data Analytics Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Spring 2025</ins></font></span><br>
-</details>
-
-## Conducted Courses @SEU 
-<details>
-<summary>CSE161: Programming Language-I (C)</summary>
-</details>
-
-<details>
-<summary>CSE162: Programming Language-I Lab (C)</summary>
-</details>
-
-<details>
-<summary>CSE181: Discrete Mathematics</summary>
-</details>
-
-<details>
-<summary>CSE241: Data Structures</summary>
-</details>
-
-<details>
-<summary>CSE242: Data Structures Lab</summary>
-</details>
-
-<details>
-<summary>CSE261: Numerical Methods</summary>
-</details>
-
-<details>
-<summary>CSE265: Algorithm</summary>
-</details>
-
-<details>
-<summary>CSE266: Algorithm Lab</summary>
-</details>
-
-<details>
-<summary>CSE343: Computer Architecture</summary>
-</details>
-
-<details>
-<summary>CSE355: Image Processing</summary>
-</details>
-
-<details>
-<summary>CSE443: Computer Graphics & Animation</summary>
-</details>
-
-<details>
-<summary>CSE444: Computer Graphics & Animation Lab</summary>
 </details>
