@@ -6,6 +6,28 @@ permalink: /publications/
 
 ## 2026
 -------
+<!-- Paper 03 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A Quantitative Gap Audit of LLM-era NLP for Education: Validity, Deployment, and Multilingual Equity**</span>](https://aclanthology.org/2026.nlp4pi-1.1/) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Farzana Zahid Manoshi, <strong style="color: green">Md. Rakibul Islam</strong> Mayesha Kader, and Israt Jahan Anika</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Workshop:</strong><em> Fifth Workshop on NLP for Positive Impact (NLP4PI)</em></font> ([Fifth Workshop on NLP for Positive Impact (NLP4PI)](https://aclanthology.org/volumes/2026.nlp4pi-1/))
+</span>
+<br>
+
+<!-- Paper 02 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Marker Signal Void: Linguistic Deception Fingerprinting and Transformer Benchmarking on a Domain-Stratified Bangla Rumour Corpus**</span>](https://aclanthology.org/2026.winlp-main.8/) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Farzana Zahid Manoshi, Sadman Bin Rashid, Israt Jahan Anika, and <strong style="color: green">Md. Rakibul Islam</strong></font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Workshop:</strong><em> 10th Widening NLP Workshop (WiNLP)</em></font> ([10th Widening NLP Workshop (WiNLP)](https://aclanthology.org/volumes/2026.winlp-main/))
+</span>
+<br>
+
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A regression-based multi-task machine and deep learning framework for explainable AI driven birth weight prediction in maternal and neonatal care**</span>](https://link.springer.com/article/10.1007/s44163-026-01012-w) (<span style="color:PaleVioletRed"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
