@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Journal Papers <i>(Recent First)</i>
+## 2026
 -------
-<!-- Paper 03 -->
+<!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A regression-based multi-task machine and deep learning framework for explainable AI driven birth weight prediction in maternal and neonatal care**</span>](https://link.springer.com/article/10.1007/s44163-026-01012-w) (<span style="color:PaleVioletRed"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Anika Bintee Aftab, Nishat Anjum Lea, and <strong style="color: green">Md. Rakibul Islam</strong></font>
@@ -18,6 +18,68 @@ permalink: /publications/
 <br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Year of Publication</strong>: 2026</font>
+</span>
+<br>
+
+## 2025
+
+<!-- Paper 06 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers**</span>](https://ieeexplore.ieee.org/document/11491090) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong></font>, Most. Sharmin Sultana Samu, Md. Zahid Hossain, Farhad Uz Zaman, and Md. Kamrozzaman Bhuiyan
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Year of Publication</strong>: 2025</font>
+</span>
+<br>
+
+<!-- Paper 05 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**</span>](https://ieeexplore.ieee.org/document/11491615) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Most. Sharmin Sultana Samu, <strong style="color: green">Md. Rakibul Islam</strong></font>, Md. Zahid Hossain, Md. Kamrozzaman Bhuiyan, and Farhad Uz Zaman
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Year of Publication</strong>: 2025</font>
+</span>
+<br>
+
+<!-- Paper 04 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks**</span>](https://ieeexplore.ieee.org/document/11491831) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong></font>, Md. Kamrozzaman Bhuiyan, Safwan Muntasir, Arifur Rahman Jawad, and Most. Sharmin Sultana Samu
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Year of Publication</strong>: 2025</font>
+</span>
+<br>
+
+<!-- Paper 03 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**FUSE: Unifying Spectral and Semantic Cues for Robust AI-Generated Image Detection**</span>](https://ieeexplore.ieee.org/document/11491327) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Most. Sharmin Sultana Samu, Md. Kamrozzaman Bhuiyan, Farhad Uz Zaman, and <strong style="color: green">Md. Rakibul Islam</strong></font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Year of Publication</strong>: 2025</font>
 </span>
 <br>
 
@@ -51,67 +113,7 @@ permalink: /publications/
 </span>
 <br>
 
-## Conference Papers <i>(Recent First)</i>
--------
-<!-- Paper 05 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers**</span>](https://ieeexplore.ieee.org/document/11491090) <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong></font>, Most. Sharmin Sultana Samu, Md. Zahid Hossain, Farhad Uz Zaman, and Md. Kamrozzaman Bhuiyan
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
-</span>
-<br>
-
-<!-- Paper 04 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**</span>](https://ieeexplore.ieee.org/document/11491615) <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Most. Sharmin Sultana Samu, <strong style="color: green">Md. Rakibul Islam</strong></font>, Md. Zahid Hossain, Md. Kamrozzaman Bhuiyan, and Farhad Uz Zaman
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
-</span>
-<br>
-
-<!-- Paper 03 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks**</span>](https://ieeexplore.ieee.org/document/11491831) <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color: green">Md. Rakibul Islam</strong></font>, Md. Kamrozzaman Bhuiyan, Safwan Muntasir, Arifur Rahman Jawad, and Most. Sharmin Sultana Samu
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
-</span>
-<br>
-
-<!-- Paper 02 -->
-🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**FUSE: Unifying Spectral and Semantic Cues for Robust AI-Generated Image Detection**</span>](https://ieeexplore.ieee.org/document/11491327) <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Md. Zahid Hossain, Most. Sharmin Sultana Samu, Md. Kamrozzaman Bhuiyan, Farhad Uz Zaman, and <strong style="color: green">Md. Rakibul Islam</strong></font>
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
-</span>
-<br>
+## 2023
 
 <!-- Paper 01 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Advancing AI-Generated Image Detection: Enhanced Accuracy through CNN and Vision Transformer Models with Explainable AI Insights**</span>](https://ieeexplore.ieee.org/abstract/document/10440990)<br>
