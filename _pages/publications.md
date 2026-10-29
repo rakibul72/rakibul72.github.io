@@ -16,10 +16,6 @@ permalink: /publications/
 	<font size="3"><strong>Journal:</strong><em> Discover Artificial Intelligence</em></font> ([Discover Artificial Intelligence](https://link.springer.com/journal/44163))
 </span>
 <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2026</font>
-</span>
-<br>
 
 ## 2025
 
@@ -33,10 +29,6 @@ permalink: /publications/
 	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
 </span>
 <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
-</span>
-<br>
 
 <!-- Paper 05 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**</span>](https://ieeexplore.ieee.org/document/11491615) <br>
@@ -48,10 +40,6 @@ permalink: /publications/
 	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
 </span>
 <br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
-</span>
-<br>
 
 <!-- Paper 04 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks**</span>](https://ieeexplore.ieee.org/document/11491831) <br>
@@ -61,10 +49,6 @@ permalink: /publications/
 <br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> 28th International Conference on Computer and Information Technology</em></font> ([ICCIT 2025](https://ieeexplore.ieee.org/xpl/conhome/11489965/proceeding))
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Year of Publication</strong>: 2025</font>
 </span>
 <br>
 
