@@ -13,7 +13,7 @@ permalink: /publications/
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Workshop:</strong><em> 5th Workshop on NLP for Positive Impact</em></font> ([NLP4PI](https://aclanthology.org/volumes/2026.nlp4pi-1/))
+	<font size="3"><strong>Workshop:</strong><em> 5th Workshop on NLP for Positive Impact at EMNLP 2026</em></font> ([NLP4PI](https://aclanthology.org/volumes/2026.nlp4pi-1/))
 </span>
 <br>
 
@@ -24,7 +24,7 @@ permalink: /publications/
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Workshop:</strong><em> 10th Widening NLP Workshop</em></font> ([WiNLP](https://aclanthology.org/volumes/2026.winlp-main/))
+	<font size="3"><strong>Workshop:</strong><em> 10th Widening NLP Workshop at EMNLP 2026</em></font> ([WiNLP](https://aclanthology.org/volumes/2026.winlp-main/))
 </span>
 <br>
 
