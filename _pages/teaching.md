@@ -66,6 +66,17 @@ title: ""
 ## Conducted Courses @AUST
 
 <details>
+<summary>Fall 2025</summary>
+
+<ul>
+<li>CSE 1231: Numerical Methods and Computer Programming</li>
+<li>CSE 1232: Numerical Methods and Computer Programming Lab</li>
+<li>CSE 2104: Data Structures Lab</li>
+</ul>
+
+</details>
+
+<details>
 <summary>Spring 2025</summary>
 
 <ul>
