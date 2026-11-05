@@ -6,6 +6,17 @@ permalink: /publications/
 
 ## 2026
 -------
+<!-- Paper 04 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**BaP-Bench: A Bias-Aware Bangla Paraphrase Benchmark for Measuring Instruction-Guided Gender Debiasing and Evaluating Transformer Models**</span>](https://aclanthology.org/2026.gebnlp-1.9/) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Most. Sharmin Sultana Samu, and <strong style="color: green">Md. Rakibul Islam</strong></font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Workshop:</strong><em> 7th Workshop on Gender Bias in Natural Language Processing at AACL-IJCNLP 2026</em></font> ([GeBNLP](https://aclanthology.org/events/gebnlp-2026/))
+</span>
+<br>
+
 <!-- Paper 03 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**A Quantitative Gap Audit of LLM-era NLP for Education: Validity, Deployment, and Multilingual Equity**</span>](https://aclanthology.org/2026.nlp4pi-1.1/) <br>
 <span style="color:black;font-family:Georgia">
